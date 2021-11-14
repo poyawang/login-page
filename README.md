@@ -4,7 +4,7 @@ This is a simple login page by using PHP and mysql to demonstrate the right user
 
 It helps building a shopping website by checking users' login status. 
 
-
+[Software Demo Video](https://youtu.be/JIP4TmsPK3g)
 
 # Relational Database
 
